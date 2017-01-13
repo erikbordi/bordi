@@ -1,2 +1,2 @@
 # bordi
-Our wedding site
+Our site
